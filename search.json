@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "学号：2025303110031\n姓名：李明\n专业：环境工程\n\n\n\n\n\n兴趣：数据分析、Quarto 网站制作\n技能：R语言、Git、Markdown"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "学号：2025303110031\n姓名：李明\n专业：环境工程"
+  },
+  {
+    "objectID": "index.html#兴趣与技能",
+    "href": "index.html#兴趣与技能",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "兴趣：数据分析、Quarto 网站制作\n技能：R语言、Git、Markdown"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "学校：华中农业大学\n课程：数据驱动的可重复性研究\n\n\n\n\n\n完成 Quarto 个人网站搭建作业\n学习 Git 版本控制与 GitHub Pages 发布\n\n\n\n\n\n邮箱：2399149012@qq.com\nGitHub：https://github.com/liming030523"
+  },
+  {
+    "objectID": "about.html#学习经历",
+    "href": "about.html#学习经历",
+    "title": "关于我",
+    "section": "",
+    "text": "学校：华中农业大学\n课程：数据驱动的可重复性研究"
+  },
+  {
+    "objectID": "about.html#项目实践",
+    "href": "about.html#项目实践",
+    "title": "关于我",
+    "section": "",
+    "text": "完成 Quarto 个人网站搭建作业\n学习 Git 版本控制与 GitHub Pages 发布"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "",
+    "text": "邮箱：2399149012@qq.com\nGitHub：https://github.com/liming030523"
+  }
+]
